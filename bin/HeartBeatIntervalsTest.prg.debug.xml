@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="1" lineNum="15" parent="globals/HeartBeatIntervalsTestView" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="1" lineNum="16" parent="globals/HeartBeatIntervalsTestView" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="1" lineNum="20" parent="globals/HeartBeatIntervalsTestView" pc="268435478" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="1" lineNum="24" parent="globals/HeartBeatIntervalsTestView" pc="268435540" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="2" lineNum="29" parent="globals/HeartBeatIntervalsTestView" pc="268435553" symbol="setUpHighFrequencySensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="2" lineNum="30" parent="globals/HeartBeatIntervalsTestView" pc="268435557" symbol="setUpHighFrequencySensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="2" lineNum="35" parent="globals/HeartBeatIntervalsTestView" pc="268435602" symbol="setUpHighFrequencySensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="2" lineNum="36" parent="globals/HeartBeatIntervalsTestView" pc="268435636" symbol="setUpHighFrequencySensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="3" lineNum="39" parent="globals/HeartBeatIntervalsTestView" pc="268435658" symbol="onHighFrequencyData"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="3" lineNum="40" parent="globals/HeartBeatIntervalsTestView" pc="268435662" symbol="onHighFrequencyData"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="3" lineNum="41" parent="globals/HeartBeatIntervalsTestView" pc="268435672" symbol="onHighFrequencyData"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="3" lineNum="42" parent="globals/HeartBeatIntervalsTestView" pc="268435679" symbol="onHighFrequencyData"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="3" lineNum="43" parent="globals/HeartBeatIntervalsTestView" pc="268435689" symbol="onHighFrequencyData"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="4" lineNum="47" parent="globals/HeartBeatIntervalsTestView" pc="268435703" symbol="startSession"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="4" lineNum="48" parent="globals/HeartBeatIntervalsTestView" pc="268435707" symbol="startSession"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="4" lineNum="49" parent="globals/HeartBeatIntervalsTestView" pc="268435720" symbol="startSession"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="4" lineNum="55" parent="globals/HeartBeatIntervalsTestView" pc="268435785" symbol="startSession"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="4" lineNum="56" parent="globals/HeartBeatIntervalsTestView" pc="268435815" symbol="startSession"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="5" lineNum="59" parent="globals/HeartBeatIntervalsTestView" pc="268435839" symbol="stopSession"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="5" lineNum="60" parent="globals/HeartBeatIntervalsTestView" pc="268435843" symbol="stopSession"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="5" lineNum="61" parent="globals/HeartBeatIntervalsTestView" pc="268435861" symbol="stopSession"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="5" lineNum="62" parent="globals/HeartBeatIntervalsTestView" pc="268435870" symbol="stopSession"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="6" lineNum="67" parent="globals/HeartBeatIntervalsTestView" pc="268435889" symbol="onLayout"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="7" lineNum="74" parent="globals/HeartBeatIntervalsTestView" pc="268435894" symbol="onShow"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="8" lineNum="78" parent="globals/HeartBeatIntervalsTestView" pc="268435899" symbol="onUpdate"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="8" lineNum="80" parent="globals/HeartBeatIntervalsTestView" pc="268435903" symbol="onUpdate"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="8" lineNum="81" parent="globals/HeartBeatIntervalsTestView" pc="268435939" symbol="onUpdate"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="8" lineNum="82" parent="globals/HeartBeatIntervalsTestView" pc="268435951" symbol="onUpdate"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="8" lineNum="84" parent="globals/HeartBeatIntervalsTestView" pc="268435987" symbol="onUpdate"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="8" lineNum="85" parent="globals/HeartBeatIntervalsTestView" pc="268435994" symbol="onUpdate"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="8" lineNum="87" parent="globals/HeartBeatIntervalsTestView" pc="268436007" symbol="onUpdate"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="8" lineNum="89" parent="globals/HeartBeatIntervalsTestView" pc="268436042" symbol="onUpdate"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="8" lineNum="90" parent="globals/HeartBeatIntervalsTestView" pc="268436082" symbol="onUpdate"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="8" lineNum="91" parent="globals/HeartBeatIntervalsTestView" pc="268436101" symbol="onUpdate"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="8" lineNum="92" parent="globals/HeartBeatIntervalsTestView" pc="268436120" symbol="onUpdate"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="8" lineNum="93" parent="globals/HeartBeatIntervalsTestView" pc="268436134" symbol="onUpdate"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="8" lineNum="94" parent="globals/HeartBeatIntervalsTestView" pc="268436148" symbol="onUpdate"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="9" lineNum="97" parent="globals/HeartBeatIntervalsTestView" pc="268436171" symbol="heartBeatIntervalText"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="9" lineNum="98" parent="globals/HeartBeatIntervalsTestView" pc="268436175" symbol="heartBeatIntervalText"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="9" lineNum="99" parent="globals/HeartBeatIntervalsTestView" pc="268436201" symbol="heartBeatIntervalText"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="9" lineNum="102" parent="globals/HeartBeatIntervalsTestView" pc="268436210" symbol="heartBeatIntervalText"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="9" lineNum="103" parent="globals/HeartBeatIntervalsTestView" pc="268436217" symbol="heartBeatIntervalText"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="9" lineNum="105" parent="globals/HeartBeatIntervalsTestView" pc="268436247" symbol="heartBeatIntervalText"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="9" lineNum="107" parent="globals/HeartBeatIntervalsTestView" pc="268436291" symbol="heartBeatIntervalText"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="10" lineNum="110" parent="globals/HeartBeatIntervalsTestView" pc="268436295" symbol="sessionText"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="10" lineNum="111" parent="globals/HeartBeatIntervalsTestView" pc="268436299" symbol="sessionText"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="10" lineNum="112" parent="globals/HeartBeatIntervalsTestView" pc="268436312" symbol="sessionText"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="10" lineNum="114" parent="globals/HeartBeatIntervalsTestView" pc="268436321" symbol="sessionText"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="11" lineNum="121" parent="globals/HeartBeatIntervalsTestView" pc="268436328" symbol="onHide"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="12" lineNum="10" parent="globals/HeartBeatIntervalsTestView" pc="268439213" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="12" lineNum="13" parent="globals/HeartBeatIntervalsTestView" pc="268439231" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="12" lineNum="10" parent="globals/HeartBeatIntervalsTestView" pc="268439213" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="13" lineNum="132" parent="globals/SummitAnt" pc="268436333" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="13" lineNum="133" parent="globals/SummitAnt" pc="268436337" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="13" lineNum="137" parent="globals/SummitAnt" pc="268436389" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="13" lineNum="139" parent="globals/SummitAnt" pc="268436425" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="13" lineNum="144" parent="globals/SummitAnt" pc="268436432" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="13" lineNum="154" parent="globals/SummitAnt" pc="268436573" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="13" lineNum="156" parent="globals/SummitAnt" pc="268436599" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="14" lineNum="159" parent="globals/SummitAnt" pc="268436610" symbol="open"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="14" lineNum="160" parent="globals/SummitAnt" pc="268436614" symbol="open"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="14" lineNum="162" parent="globals/SummitAnt" pc="268436624" symbol="open"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="165" parent="globals/SummitAnt" pc="268436643" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="166" parent="globals/SummitAnt" pc="268436647" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="167" parent="globals/SummitAnt" pc="268436658" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="168" parent="globals/SummitAnt" pc="268436666" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="169" parent="globals/SummitAnt" pc="268436679" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="170" parent="globals/SummitAnt" pc="268436690" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="172" parent="globals/SummitAnt" pc="268436706" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="174" parent="globals/SummitAnt" pc="268436719" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="175" parent="globals/SummitAnt" pc="268436730" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="177" parent="globals/SummitAnt" pc="268436746" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="179" parent="globals/SummitAnt" pc="268436759" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="180" parent="globals/SummitAnt" pc="268436764" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="182" parent="globals/SummitAnt" pc="268436780" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="184" parent="globals/SummitAnt" pc="268436793" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="185" parent="globals/SummitAnt" pc="268436806" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="186" parent="globals/SummitAnt" pc="268436819" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="187" parent="globals/SummitAnt" pc="268436832" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="189" parent="globals/SummitAnt" pc="268436845" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="190" parent="globals/SummitAnt" pc="268436873" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="15" lineNum="191" parent="globals/SummitAnt" pc="268436887" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="16" lineNum="195" parent="globals/SummitAnt" pc="268436911" symbol="onMessage"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="16" lineNum="196" parent="globals/SummitAnt" pc="268436915" symbol="onMessage"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="16" lineNum="197" parent="globals/SummitAnt" pc="268436927" symbol="onMessage"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="16" lineNum="198" parent="globals/SummitAnt" pc="268436937" symbol="onMessage"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="17" lineNum="127" parent="globals/SummitAnt" pc="268439315" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestView.mc" id="17" lineNum="127" parent="globals/SummitAnt" pc="268439315" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="19" lineNum="23" parent="globals/StrydSensor" pc="268436966" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="19" lineNum="24" parent="globals/StrydSensor" pc="268436970" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="19" lineNum="25" parent="globals/StrydSensor" pc="268436980" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="19" lineNum="27" parent="globals/StrydSensor" pc="268436993" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="19" lineNum="29" parent="globals/StrydSensor" pc="268437005" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="19" lineNum="30" parent="globals/StrydSensor" pc="268437014" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="19" lineNum="32" parent="globals/StrydSensor" pc="268437023" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="19" lineNum="33" parent="globals/StrydSensor" pc="268437033" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="19" lineNum="35" parent="globals/StrydSensor" pc="268437043" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="19" lineNum="37" parent="globals/StrydSensor" pc="268437056" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="19" lineNum="38" parent="globals/StrydSensor" pc="268437069" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="19" lineNum="39" parent="globals/StrydSensor" pc="268437082" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="19" lineNum="40" parent="globals/StrydSensor" pc="268437095" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="19" lineNum="45" parent="globals/StrydSensor" pc="268437137" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="20" lineNum="49" parent="globals/StrydSensor" pc="268437150" symbol="setUpHighFrequencySensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="20" lineNum="50" parent="globals/StrydSensor" pc="268437154" symbol="setUpHighFrequencySensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="20" lineNum="55" parent="globals/StrydSensor" pc="268437199" symbol="setUpHighFrequencySensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="20" lineNum="56" parent="globals/StrydSensor" pc="268437233" symbol="setUpHighFrequencySensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="21" lineNum="59" parent="globals/StrydSensor" pc="268437257" symbol="onHighFrequencyData"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="21" lineNum="60" parent="globals/StrydSensor" pc="268437261" symbol="onHighFrequencyData"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="21" lineNum="61" parent="globals/StrydSensor" pc="268437271" symbol="onHighFrequencyData"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="21" lineNum="62" parent="globals/StrydSensor" pc="268437278" symbol="onHighFrequencyData"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="21" lineNum="63" parent="globals/StrydSensor" pc="268437288" symbol="onHighFrequencyData"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="22" lineNum="68" parent="globals/StrydSensor" pc="268437322" symbol="timer"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="22" lineNum="69" parent="globals/StrydSensor" pc="268437326" symbol="timer"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="23" lineNum="72" parent="globals/StrydSensor" pc="268437337" symbol="broadcast"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="24" lineNum="83" parent="globals/StrydSensor" pc="268437342" symbol="enableGPS"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="24" lineNum="84" parent="globals/StrydSensor" pc="268437346" symbol="enableGPS"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="24" lineNum="85" parent="globals/StrydSensor" pc="268437356" symbol="enableGPS"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="25" lineNum="91" parent="globals/StrydSensor" pc="268437401" symbol="disableGPS"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="25" lineNum="92" parent="globals/StrydSensor" pc="268437405" symbol="disableGPS"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="25" lineNum="93" parent="globals/StrydSensor" pc="268437415" symbol="disableGPS"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="25" lineNum="94" parent="globals/StrydSensor" pc="268437425" symbol="disableGPS"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="26" lineNum="100" parent="globals/StrydSensor" pc="268437470" symbol="onPosition"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="26" lineNum="101" parent="globals/StrydSensor" pc="268437474" symbol="onPosition"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="26" lineNum="102" parent="globals/StrydSensor" pc="268437513" symbol="onPosition"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="27" lineNum="106" parent="globals/StrydSensor" pc="268437527" symbol="setField"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="27" lineNum="107" parent="globals/StrydSensor" pc="268437531" symbol="setField"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="27" lineNum="108" parent="globals/StrydSensor" pc="268437562" symbol="setField"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="28" lineNum="119" parent="globals/StrydSensor" pc="268437576" symbol="cleanSensors"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="28" lineNum="120" parent="globals/StrydSensor" pc="268437580" symbol="cleanSensors"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="28" lineNum="120" parent="globals/StrydSensor" pc="268437593" symbol="cleanSensors"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="28" lineNum="121" parent="globals/StrydSensor" pc="268437614" symbol="cleanSensors"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="29" lineNum="125" parent="globals/StrydSensor" pc="268437618" symbol="foundSensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="30" lineNum="135" parent="globals/StrydSensor" pc="268437623" symbol="forgetSensors"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="30" lineNum="136" parent="globals/StrydSensor" pc="268437627" symbol="forgetSensors"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="30" lineNum="137" parent="globals/StrydSensor" pc="268437657" symbol="forgetSensors"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="31" lineNum="140" parent="globals/StrydSensor" pc="268437661" symbol="remembersSensors"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="31" lineNum="141" parent="globals/StrydSensor" pc="268437665" symbol="remembersSensors"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="31" lineNum="144" parent="globals/StrydSensor" pc="268437699" symbol="remembersSensors"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="31" lineNum="146" parent="globals/StrydSensor" pc="268437705" symbol="remembersSensors"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="32" lineNum="150" parent="globals/StrydSensor" pc="268437709" symbol="hasSensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="32" lineNum="151" parent="globals/StrydSensor" pc="268437713" symbol="hasSensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="32" lineNum="152" parent="globals/StrydSensor" pc="268437750" symbol="hasSensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="32" lineNum="154" parent="globals/StrydSensor" pc="268437756" symbol="hasSensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="33" lineNum="157" parent="globals/StrydSensor" pc="268437760" symbol="openSensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="34" lineNum="173" parent="globals/StrydSensor" pc="268437765" symbol="checkConnectivity"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="34" lineNum="174" parent="globals/StrydSensor" pc="268437769" symbol="checkConnectivity"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="34" lineNum="175" parent="globals/StrydSensor" pc="268437788" symbol="checkConnectivity"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="34" lineNum="176" parent="globals/StrydSensor" pc="268437805" symbol="checkConnectivity"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Sensor.mc" id="35" lineNum="7" parent="globals/StrydSensor" pc="268439353" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestMenuDelegate.mc" id="37" lineNum="7" parent="globals/HeartBeatIntervalsTestMenuDelegate" pc="268437829" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestMenuDelegate.mc" id="37" lineNum="8" parent="globals/HeartBeatIntervalsTestMenuDelegate" pc="268437833" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestMenuDelegate.mc" id="38" lineNum="11" parent="globals/HeartBeatIntervalsTestMenuDelegate" pc="268437852" symbol="onSelect"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestMenuDelegate.mc" id="38" lineNum="12" parent="globals/HeartBeatIntervalsTestMenuDelegate" pc="268437856" symbol="onSelect"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestMenuDelegate.mc" id="39" lineNum="15" parent="globals/HeartBeatIntervalsTestMenuDelegate" pc="268437878" symbol="onNextPage"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestMenuDelegate.mc" id="40" lineNum="19" parent="globals/HeartBeatIntervalsTestMenuDelegate" pc="268437883" symbol="onPreviousPage"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestMenuDelegate.mc" id="41" lineNum="23" parent="globals/HeartBeatIntervalsTestMenuDelegate" pc="268437888" symbol="onBack"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestMenuDelegate.mc" id="42" lineNum="5" parent="globals/HeartBeatIntervalsTestMenuDelegate" pc="268439194" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestMenuDelegate.mc" id="42" lineNum="5" parent="globals/HeartBeatIntervalsTestMenuDelegate" pc="268439194" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="44" lineNum="7" parent="globals/HeartBeatIntervalsTestApp" pc="268437893" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="44" lineNum="8" parent="globals/HeartBeatIntervalsTestApp" pc="268437897" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="45" lineNum="14" parent="globals/HeartBeatIntervalsTestApp" pc="268437916" symbol="onStart"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="45" lineNum="18" parent="globals/HeartBeatIntervalsTestApp" pc="268437920" symbol="onStart"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="45" lineNum="19" parent="globals/HeartBeatIntervalsTestApp" pc="268437950" symbol="onStart"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="46" lineNum="23" parent="globals/HeartBeatIntervalsTestApp" pc="268437986" symbol="onStop"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="47" lineNum="27" parent="globals/HeartBeatIntervalsTestApp" pc="268437991" symbol="getInitialView"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="47" lineNum="28" parent="globals/HeartBeatIntervalsTestApp" pc="268437995" symbol="getInitialView"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="47" lineNum="29" parent="globals/HeartBeatIntervalsTestApp" pc="268438019" symbol="getInitialView"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="47" lineNum="30" parent="globals/HeartBeatIntervalsTestApp" pc="268438045" symbol="getInitialView"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="48" lineNum="33" parent="globals/HeartBeatIntervalsTestApp" pc="268438073" symbol="driver"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="48" lineNum="45" parent="globals/HeartBeatIntervalsTestApp" pc="268438077" symbol="driver"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="49" lineNum="6" parent="globals/HeartBeatIntervalsTestApp" pc="268439334" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="49" lineNum="6" parent="globals/HeartBeatIntervalsTestApp" pc="268439334" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="50" lineNum="50" parent="globals" pc="268438094" symbol="getApp"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestApp.mc" id="50" lineNum="51" parent="globals" pc="268438106" symbol="getApp"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestDelegate.mc" id="52" lineNum="7" parent="globals/HeartBeatIntervalsTestDelegate" pc="268438123" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestDelegate.mc" id="52" lineNum="8" parent="globals/HeartBeatIntervalsTestDelegate" pc="268438127" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestDelegate.mc" id="52" lineNum="9" parent="globals/HeartBeatIntervalsTestDelegate" pc="268438145" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestDelegate.mc" id="53" lineNum="12" parent="globals/HeartBeatIntervalsTestDelegate" pc="268438156" symbol="onSelect"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestDelegate.mc" id="53" lineNum="13" parent="globals/HeartBeatIntervalsTestDelegate" pc="268438160" symbol="onSelect"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestDelegate.mc" id="53" lineNum="14" parent="globals/HeartBeatIntervalsTestDelegate" pc="268438179" symbol="onSelect"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestDelegate.mc" id="53" lineNum="16" parent="globals/HeartBeatIntervalsTestDelegate" pc="268438200" symbol="onSelect"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestDelegate.mc" id="53" lineNum="18" parent="globals/HeartBeatIntervalsTestDelegate" pc="268438218" symbol="onSelect"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestDelegate.mc" id="54" lineNum="21" parent="globals/HeartBeatIntervalsTestDelegate" pc="268438242" symbol="onNextPage"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestDelegate.mc" id="55" lineNum="25" parent="globals/HeartBeatIntervalsTestDelegate" pc="268438247" symbol="onPreviousPage"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestDelegate.mc" id="56" lineNum="29" parent="globals/HeartBeatIntervalsTestDelegate" pc="268438252" symbol="onBack"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestDelegate.mc" id="57" lineNum="4" parent="globals/HeartBeatIntervalsTestDelegate" pc="268439246" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/HeartBeatIntervalsTestDelegate.mc" id="57" lineNum="4" parent="globals/HeartBeatIntervalsTestDelegate" pc="268439246" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="59" lineNum="10" parent="globals/Recording" pc="268438257" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="59" lineNum="11" parent="globals/Recording" pc="268438261" symbol="initialize"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="60" lineNum="14" parent="globals/Recording" pc="268438271" symbol="isRecording"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="60" lineNum="15" parent="globals/Recording" pc="268438275" symbol="isRecording"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="60" lineNum="16" parent="globals/Recording" pc="268438332" symbol="isRecording"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="60" lineNum="18" parent="globals/Recording" pc="268438338" symbol="isRecording"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="61" lineNum="21" parent="globals/Recording" pc="268438342" symbol="startSensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="61" lineNum="22" parent="globals/Recording" pc="268438346" symbol="startSensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="61" lineNum="23" parent="globals/Recording" pc="268438359" symbol="startSensor"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="62" lineNum="30" parent="globals/Recording" pc="268438425" symbol="start"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="62" lineNum="31" parent="globals/Recording" pc="268438429" symbol="start"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="63" lineNum="34" parent="globals/Recording" pc="268438448" symbol="pause"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="63" lineNum="35" parent="globals/Recording" pc="268438452" symbol="pause"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="64" lineNum="38" parent="globals/Recording" pc="268438471" symbol="save"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="64" lineNum="39" parent="globals/Recording" pc="268438475" symbol="save"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="64" lineNum="40" parent="globals/Recording" pc="268438493" symbol="save"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="64" lineNum="41" parent="globals/Recording" pc="268438511" symbol="save"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="65" lineNum="45" parent="globals/Recording" pc="268438524" symbol="discard"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="65" lineNum="46" parent="globals/Recording" pc="268438528" symbol="discard"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="65" lineNum="47" parent="globals/Recording" pc="268438546" symbol="discard"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="65" lineNum="48" parent="globals/Recording" pc="268438564" symbol="discard"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="66" lineNum="51" parent="globals/Recording" pc="268438577" symbol="lap"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="66" lineNum="52" parent="globals/Recording" pc="268438581" symbol="lap"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="67" lineNum="55" parent="globals/Recording" pc="268438600" symbol="writeData"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="68" lineNum="59" parent="globals/Recording" pc="268438605" symbol="cleanSession"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="68" lineNum="60" parent="globals/Recording" pc="268438609" symbol="cleanSession"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="69" lineNum="63" parent="globals/Recording" pc="268438619" symbol="startRecording"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="69" lineNum="64" parent="globals/Recording" pc="268438623" symbol="startRecording"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="69" lineNum="64" parent="globals/Recording" pc="268438636" symbol="startRecording"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="70" lineNum="67" parent="globals/Recording" pc="268438652" symbol="continueRecording"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="71" lineNum="71" parent="globals/Recording" pc="268438657" symbol="pauseRecording"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="72" lineNum="75" parent="globals/Recording" pc="268438662" symbol="saveRecording"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="72" lineNum="76" parent="globals/Recording" pc="268438666" symbol="saveRecording"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="73" lineNum="86" parent="globals/Recording" pc="268438683" symbol="discardRecording"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="73" lineNum="87" parent="globals/Recording" pc="268438687" symbol="discardRecording"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="74" lineNum="95" parent="globals/Recording" pc="268438704" symbol="checkAutoLap"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="75" lineNum="99" parent="globals/Recording" pc="268438709" symbol="onLap"/>
+        <entry filename="/Users/mazefest/Developer/ScratchFolder/HeartBeatIntervalsTest/source/Recording.mc" id="76" lineNum="4" parent="globals/Recording" pc="268439265" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="78" lineNum="2" parent="globals/Rez/Drawables" pc="268439290" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="79" lineNum="7" parent="globals/Rez/Fonts" pc="268439311" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="80" lineNum="9" parent="globals/Rez/JsonData" pc="268439313" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="81" lineNum="18" parent="globals/Rez/Layouts" pc="268438714" symbol="MainLayout"/>
+        <entry filename="Rez" id="81" lineNum="20" parent="globals/Rez/Layouts" pc="268438726" symbol="MainLayout"/>
+        <entry filename="Rez" id="81" lineNum="21" parent="globals/Rez/Layouts" pc="268438878" symbol="MainLayout"/>
+        <entry filename="Rez" id="81" lineNum="22" parent="globals/Rez/Layouts" pc="268438990" symbol="MainLayout"/>
+        <entry filename="Rez" id="81" lineNum="24" parent="globals/Rez/Layouts" pc="268439030" symbol="MainLayout"/>
+        <entry filename="Rez" id="82" lineNum="11" parent="globals/Rez/Layouts" pc="268439312" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="83" lineNum="38" parent="globals/Rez/Menus/MainMenu" pc="268439058" symbol="initialize"/>
+        <entry filename="Rez" id="83" lineNum="39" parent="globals/Rez/Menus/MainMenu" pc="268439062" symbol="initialize"/>
+        <entry filename="Rez" id="83" lineNum="40" parent="globals/Rez/Menus/MainMenu" pc="268439080" symbol="initialize"/>
+        <entry filename="Rez" id="83" lineNum="41" parent="globals/Rez/Menus/MainMenu" pc="268439136" symbol="initialize"/>
+        <entry filename="Rez" id="84" lineNum="36" parent="globals/Rez/Menus/MainMenu" pc="268439292" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="84" lineNum="36" parent="globals/Rez/Menus/MainMenu" pc="268439292" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="85" lineNum="29" parent="globals/Rez/Menus" pc="268439291" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="86" lineNum="47" parent="globals/Rez/Strings" pc="268439314" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="87" lineNum="1" parent="globals/Rez" pc="268439266" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="87" lineNum="1" parent="globals/Rez" pc="268439266" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="8389246" symbol="transmissionType"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="49" symbol="chanAssign"/>
+        <entry field="true" id="53" symbol="field"/>
+        <entry id="11" object="true" symbol="StrydSensor"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="69" method="true" symbol="hasSensor"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="31" method="true" symbol="startRecording"/>
+        <entry field="true" id="58" symbol="flash"/>
+        <entry id="8388638" module="true" symbol="ActivityRecording"/>
+        <entry id="43" method="true" symbol="MainLayout"/>
+        <entry id="60" method="true" symbol="timer"/>
+        <entry field="true" id="8388890" symbol="sport"/>
+        <entry id="26" method="true" symbol="startSensor"/>
+        <entry id="21" method="true" symbol="startSession"/>
+        <entry id="67" method="true" symbol="forgetSensors"/>
+        <entry id="8391211" method="true" symbol="onMessage"/>
+        <entry field="true" id="59" symbol="flashCount"/>
+        <entry id="63" method="true" symbol="onPosition"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="8389274" symbol="searchThreshold"/>
+        <entry id="10" object="true" symbol="SummitAnt"/>
+        <entry id="15" object="true" symbol="Recording"/>
+        <entry field="true" id="8389244" symbol="deviceNumber"/>
+        <entry id="33" method="true" symbol="pauseRecording"/>
+        <entry id="8388634" module="true" symbol="Ant"/>
+        <entry field="true" id="47" symbol="AppName"/>
+        <entry field="true" id="8389807" symbol="data"/>
+        <entry id="22" method="true" symbol="stopSession"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry field="true" id="16" symbol="sensor"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="34" method="true" symbol="saveRecording"/>
+        <entry field="true" id="55" symbol="isOutdoor"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="46" symbol="prompt"/>
+        <entry field="true" id="40" symbol="id_monkey"/>
+        <entry field="true" id="8389245" symbol="deviceType"/>
+        <entry id="8388883" method="true" symbol="discard"/>
+        <entry id="36" method="true" symbol="checkAutoLap"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="66" method="true" symbol="foundSensor"/>
+        <entry field="true" id="56" symbol="hasGPS"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="73" symbol="item_2"/>
+        <entry id="72" symbol="item_1"/>
+        <entry id="8389079" method="true" symbol="onPreviousPage"/>
+        <entry id="39" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="65" method="true" symbol="cleanSensors"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="20" method="true" symbol="onHighFrequencyData"/>
+        <entry id="71" method="true" symbol="checkConnectivity"/>
+        <entry id="52" method="true" symbol="driver"/>
+        <entry field="true" id="8390655" symbol="heartBeatIntervals"/>
+        <entry field="true" id="8390041" method="true" symbol="mode"/>
+        <entry id="8388882" method="true" symbol="save"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="8389271" symbol="radioFrequency"/>
+        <entry field="true" id="8389273" symbol="searchTimeoutHighPriority"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="42" object="true" symbol="MainMenu"/>
+        <entry id="12" object="true" symbol="HeartBeatIntervalsTestMenuDelegate"/>
+        <entry field="true" id="50" symbol="deviceCfg"/>
+        <entry id="28" method="true" symbol="lap"/>
+        <entry field="true" id="8390438" symbol="enabled"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="51" method="true" symbol="broadcast"/>
+        <entry id="62" method="true" symbol="disableGPS"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry field="true" id="8389270" symbol="messagePeriod"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389256" method="true" symbol="open"/>
+        <entry field="true" id="57" symbol="lastMessage"/>
+        <entry field="true" id="54" symbol="antSummit"/>
+        <entry id="61" method="true" symbol="enableGPS"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8388881" method="true" symbol="isRecording"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="32" method="true" symbol="continueRecording"/>
+        <entry field="true" id="41" symbol="LauncherIcon"/>
+        <entry id="64" method="true" symbol="setField"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="14" object="true" symbol="HeartBeatIntervalsTestDelegate"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="30" method="true" symbol="cleanSession"/>
+        <entry field="true" id="8389272" symbol="searchTimeoutLowPriority"/>
+        <entry id="8388643" module="true" symbol="Sensor"/>
+        <entry id="37" method="true" symbol="onLap"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="19" method="true" symbol="setUpHighFrequencySensor"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="48" symbol="hasStryd"/>
+        <entry field="true" id="25" symbol="view"/>
+        <entry field="true" id="8388892" symbol="name"/>
+        <entry id="8389808" symbol="period"/>
+        <entry id="35" method="true" symbol="discardRecording"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="70" method="true" symbol="openSensor"/>
+        <entry id="23" method="true" symbol="heartBeatIntervalText"/>
+        <entry id="29" method="true" symbol="writeData"/>
+        <entry id="68" method="true" symbol="remembersSensors"/>
+        <entry id="38" module="true" symbol="Layouts"/>
+        <entry id="9" object="true" symbol="HeartBeatIntervalsTestView"/>
+        <entry field="true" id="8389487" symbol="state"/>
+        <entry id="8388698" method="true" symbol="start"/>
+        <entry field="true" id="18" symbol="lastHeartBeatInveralData"/>
+        <entry id="8388642" module="true" symbol="Position"/>
+        <entry id="13" object="true" symbol="HeartBeatIntervalsTestApp"/>
+        <entry id="27" method="true" symbol="pause"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="17" symbol="session"/>
+        <entry id="8389078" method="true" symbol="onNextPage"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="45" symbol="menu_label_2"/>
+        <entry field="true" id="44" symbol="menu_label_1"/>
+        <entry id="24" method="true" symbol="sessionText"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435656" name="options" stackId="1" startPc="268435557"/>
+        <entry endPc="268435698" name="sample" stackId="3" startPc="268435679"/>
+        <entry endPc="268435701" name="heartRateData" stackId="2" startPc="268435662"/>
+        <entry arg="true" endPc="268435702" name="sensorData" stackId="1" startPc="268435658"/>
+        <entry arg="true" endPc="268435893" name="dc" stackId="1" startPc="268435889"/>
+        <entry endPc="268436169" name="x" stackId="4" startPc="268435903"/>
+        <entry endPc="268436169" name="font" stackId="6" startPc="268435903"/>
+        <entry endPc="268436169" name="justification" stackId="7" startPc="268435903"/>
+        <entry endPc="268436169" name="hasStrydText" stackId="2" startPc="268435903"/>
+        <entry endPc="268436169" name="text" stackId="3" startPc="268435903"/>
+        <entry endPc="268436169" name="y" stackId="5" startPc="268435903"/>
+        <entry arg="true" endPc="268436170" name="dc" stackId="1" startPc="268435899"/>
+        <entry endPc="268436290" name="i" stackId="2" startPc="268436247"/>
+        <entry endPc="268436293" name="text" stackId="1" startPc="268436175"/>
+        <entry endPc="268436608" name="deviceNumber" stackId="2" startPc="268436337"/>
+        <entry endPc="268436608" name="chanAssign" stackId="1" startPc="268436337"/>
+        <entry arg="true" endPc="268436642" name="mode" stackId="1" startPc="268436610"/>
+        <entry endPc="268436906" name="message" stackId="5" startPc="268436658"/>
+        <entry endPc="268436906" name="payload" stackId="4" startPc="268436658"/>
+        <entry arg="true" endPc="268436910" name="light" stackId="2" startPc="268436643"/>
+        <entry arg="true" endPc="268436910" name="outdoor" stackId="3" startPc="268436643"/>
+        <entry arg="true" endPc="268436910" name="timer" stackId="1" startPc="268436643"/>
+        <entry arg="true" endPc="268436965" name="msg" stackId="1" startPc="268436911"/>
+        <entry arg="true" endPc="268437149" name="mData" stackId="1" startPc="268436966"/>
+        <entry endPc="268437255" name="options" stackId="1" startPc="268437154"/>
+        <entry endPc="268437317" name="sample" stackId="3" startPc="268437278"/>
+        <entry endPc="268437320" name="heartRateData" stackId="2" startPc="268437261"/>
+        <entry arg="true" endPc="268437321" name="sensorData" stackId="1" startPc="268437257"/>
+        <entry arg="true" endPc="268437336" name="mState" stackId="1" startPc="268437322"/>
+        <entry arg="true" endPc="268437526" name="info" stackId="1" startPc="268437470"/>
+        <entry arg="true" endPc="268437575" name="mField" stackId="1" startPc="268437527"/>
+        <entry arg="true" endPc="268437764" name="mode_" stackId="1" startPc="268437760"/>
+        <entry endPc="268437984" name="secTimer" stackId="2" startPc="268437920"/>
+        <entry arg="true" endPc="268437985" name="state" stackId="1" startPc="268437916"/>
+        <entry arg="true" endPc="268437990" name="state" stackId="1" startPc="268437986"/>
+        <entry endPc="268438071" name="view" stackId="1" startPc="268437995"/>
+        <entry endPc="268438071" name="delegate" stackId="2" startPc="268437995"/>
+        <entry arg="true" endPc="268438155" name="view" stackId="1" startPc="268438123"/>
+        <entry arg="true" endPc="268438424" name="type" stackId="1" startPc="268438342"/>
+        <entry arg="true" endPc="268438604" name="data" stackId="1" startPc="268438600"/>
+        <entry arg="true" endPc="268438604" name="field" stackId="2" startPc="268438600"/>
+        <entry endPc="268439056" name="rez_cmp_local_text_1333936624" stackId="2" startPc="268438726"/>
+        <entry endPc="268439056" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268438726"/>
+        <entry arg="true" endPc="268439057" name="dc" stackId="1" startPc="268438714"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_monkey"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/HeartBeatIntervalsTestMenuDelegate" offset="198" parentId="globals" symbolId="HeartBeatIntervalsTestMenuDelegate" type="class"/>
+        <dataEntry label="globals/HeartBeatIntervalsTestView" offset="277" parentId="globals" symbolId="HeartBeatIntervalsTestView" type="class"/>
+        <dataEntry label="globals/HeartBeatIntervalsTestDelegate" offset="428" parentId="globals" symbolId="HeartBeatIntervalsTestDelegate" type="class"/>
+        <dataEntry label="globals/Recording" offset="515" parentId="globals" symbolId="Recording" type="class"/>
+        <dataEntry label="globals/Rez" offset="698" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="777" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="824" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Menus/MainMenu" offset="863" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry label="globals/Rez/Fonts" offset="910" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="941" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="980" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1011" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/SummitAnt" offset="1074" parentId="globals" symbolId="SummitAnt" type="class"/>
+        <dataEntry label="globals/HeartBeatIntervalsTestApp" offset="1169" parentId="globals" symbolId="HeartBeatIntervalsTestApp" type="class"/>
+        <dataEntry label="globals/StrydSensor" offset="1248" parentId="globals" symbolId="StrydSensor" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435552" name="initialize" parent="HeartBeatIntervalsTestView" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435657" name="setUpHighFrequencySensor" parent="HeartBeatIntervalsTestView" startPc="268435553">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435702" name="onHighFrequencyData" parent="HeartBeatIntervalsTestView" startPc="268435658">
+            <param id="sensorData"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435838" name="startSession" parent="HeartBeatIntervalsTestView" startPc="268435703">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435888" name="stopSession" parent="HeartBeatIntervalsTestView" startPc="268435839">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435893" name="onLayout" parent="HeartBeatIntervalsTestView" startPc="268435889">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435898" name="onShow" parent="HeartBeatIntervalsTestView" startPc="268435894">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436170" name="onUpdate" parent="HeartBeatIntervalsTestView" startPc="268435899">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436294" name="heartBeatIntervalText" parent="HeartBeatIntervalsTestView" startPc="268436171">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436327" name="sessionText" parent="HeartBeatIntervalsTestView" startPc="268436295">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436332" name="onHide" parent="HeartBeatIntervalsTestView" startPc="268436328">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439245" name="&lt;init&gt;" parent="HeartBeatIntervalsTestView" startPc="268439213">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436609" name="initialize" parent="SummitAnt" startPc="268436333">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436642" name="open" parent="SummitAnt" startPc="268436610">
+            <param id="mode"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436910" name="broadcast" parent="SummitAnt" startPc="268436643">
+            <param id="timer"/>
+            <param id="light"/>
+            <param id="outdoor"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436965" name="onMessage" parent="SummitAnt" startPc="268436911">
+            <param id="msg"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439333" name="&lt;init&gt;" parent="SummitAnt" startPc="268439315">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437149" name="initialize" parent="StrydSensor" startPc="268436966">
+            <param id="mData"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437256" name="setUpHighFrequencySensor" parent="StrydSensor" startPc="268437150">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437321" name="onHighFrequencyData" parent="StrydSensor" startPc="268437257">
+            <param id="sensorData"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437336" name="timer" parent="StrydSensor" startPc="268437322">
+            <param id="mState"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437341" name="broadcast" parent="StrydSensor" startPc="268437337">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437400" name="enableGPS" parent="StrydSensor" startPc="268437342">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437469" name="disableGPS" parent="StrydSensor" startPc="268437401">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437526" name="onPosition" parent="StrydSensor" startPc="268437470">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437575" name="setField" parent="StrydSensor" startPc="268437527">
+            <param id="mField"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437617" name="cleanSensors" parent="StrydSensor" startPc="268437576">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437622" name="foundSensor" parent="StrydSensor" startPc="268437618">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437660" name="forgetSensors" parent="StrydSensor" startPc="268437623">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437708" name="remembersSensors" parent="StrydSensor" startPc="268437661">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437759" name="hasSensor" parent="StrydSensor" startPc="268437709">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437764" name="openSensor" parent="StrydSensor" startPc="268437760">
+            <param id="mode_"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437828" name="checkConnectivity" parent="StrydSensor" startPc="268437765">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439353" name="&lt;init&gt;" parent="StrydSensor" startPc="268439353">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437851" name="initialize" parent="HeartBeatIntervalsTestMenuDelegate" startPc="268437829">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437877" name="onSelect" parent="HeartBeatIntervalsTestMenuDelegate" startPc="268437852">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437882" name="onNextPage" parent="HeartBeatIntervalsTestMenuDelegate" startPc="268437878">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437887" name="onPreviousPage" parent="HeartBeatIntervalsTestMenuDelegate" startPc="268437883">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437892" name="onBack" parent="HeartBeatIntervalsTestMenuDelegate" startPc="268437888">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439212" name="&lt;init&gt;" parent="HeartBeatIntervalsTestMenuDelegate" startPc="268439194">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437915" name="initialize" parent="HeartBeatIntervalsTestApp" startPc="268437893">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437985" name="onStart" parent="HeartBeatIntervalsTestApp" startPc="268437916">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437990" name="onStop" parent="HeartBeatIntervalsTestApp" startPc="268437986">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438072" name="getInitialView" parent="HeartBeatIntervalsTestApp" startPc="268437991">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438093" name="driver" parent="HeartBeatIntervalsTestApp" startPc="268438073">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439352" name="&lt;init&gt;" parent="HeartBeatIntervalsTestApp" startPc="268439334">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438122" name="getApp" startPc="268438094">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438155" name="initialize" parent="HeartBeatIntervalsTestDelegate" startPc="268438123">
+            <param id="view"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438241" name="onSelect" parent="HeartBeatIntervalsTestDelegate" startPc="268438156">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438246" name="onNextPage" parent="HeartBeatIntervalsTestDelegate" startPc="268438242">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438251" name="onPreviousPage" parent="HeartBeatIntervalsTestDelegate" startPc="268438247">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438256" name="onBack" parent="HeartBeatIntervalsTestDelegate" startPc="268438252">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439264" name="&lt;init&gt;" parent="HeartBeatIntervalsTestDelegate" startPc="268439246">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438270" name="initialize" parent="Recording" startPc="268438257">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438341" name="isRecording" parent="Recording" startPc="268438271">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438424" name="startSensor" parent="Recording" startPc="268438342">
+            <param id="type"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438447" name="start" parent="Recording" startPc="268438425">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438470" name="pause" parent="Recording" startPc="268438448">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438523" name="save" parent="Recording" startPc="268438471">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438576" name="discard" parent="Recording" startPc="268438524">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438599" name="lap" parent="Recording" startPc="268438577">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438604" name="writeData" parent="Recording" startPc="268438600">
+            <param id="data"/>
+            <param id="field"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438618" name="cleanSession" parent="Recording" startPc="268438605">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438651" name="startRecording" parent="Recording" startPc="268438619">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438656" name="continueRecording" parent="Recording" startPc="268438652">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438661" name="pauseRecording" parent="Recording" startPc="268438657">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438682" name="saveRecording" parent="Recording" startPc="268438662">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438703" name="discardRecording" parent="Recording" startPc="268438683">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438708" name="checkAutoLap" parent="Recording" startPc="268438704">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438713" name="onLap" parent="Recording" startPc="268438709">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439265" name="&lt;init&gt;" parent="Recording" startPc="268439265">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439290" name="&lt;init&gt;" parent="Drawables" startPc="268439290">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439311" name="&lt;init&gt;" parent="Fonts" startPc="268439311">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439313" name="&lt;init&gt;" parent="JsonData" startPc="268439313">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439057" name="MainLayout" parent="Layouts" startPc="268438714">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439312" name="&lt;init&gt;" parent="Layouts" startPc="268439312">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439192" name="initialize" parent="MainMenu" startPc="268439058">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439310" name="&lt;init&gt;" parent="MainMenu" startPc="268439292">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439291" name="&lt;init&gt;" parent="Menus" startPc="268439291">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439314" name="&lt;init&gt;" parent="Strings" startPc="268439314">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439289" name="&lt;init&gt;" parent="Rez" startPc="268439266">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
