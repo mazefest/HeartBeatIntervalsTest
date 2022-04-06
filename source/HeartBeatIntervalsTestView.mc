@@ -54,9 +54,9 @@ class HeartBeatIntervalsTestView extends WatchUi.View {
         dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_WHITE);
 
         var text = heartBeatIntervalText();
-        var x = dc.getWidth() / 2;
-        var y = dc.getHeight() / 4;
         var font = Graphics.FONT_MEDIUM;
+        var x = dc.getWidth() / 2;
+        var y = (dc.getHeight() / 2) - (dc.getFontHeight(font) / 2);
         var justification = Graphics.TEXT_JUSTIFY_CENTER;
 
         dc.drawText(x, y, font, text, justification);
